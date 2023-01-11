@@ -246,3 +246,4 @@ git checkout --.
 git checkout -- .
 git status
 git reflog
+git init
